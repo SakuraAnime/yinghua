@@ -82,7 +82,7 @@
 
 2. **备用域名与访问保障**  
 
-   若主站（https://www.nuomitab.com  无法访问，可尝试备用域名（如https://www.nuomitab.com），确保服务稳定性。  
+   若主站（https://www.nuomitab.com  无法访问，确保服务稳定性。  
 
 
 
